@@ -1,0 +1,25 @@
+{
+    "budgets": [
+        {
+            "month": "2026-05",
+            "income_goal": 2000.0,
+            "spending_limit": 1500.0
+        }
+    ],
+    "transactions": [
+        {
+            "trans_type": "income",
+            "category": "Allowance",
+            "amount": 2000.0,
+            "date": "2026-05-11",
+            "note": ""
+        },
+        {
+            "trans_type": "expense",
+            "category": "Food",
+            "amount": 250.0,
+            "date": "2026-05-11",
+            "note": ""
+        }
+    ]
+}
